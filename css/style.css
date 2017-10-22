@@ -1,0 +1,20 @@
+img {height: 120px;
+  width: 120px;
+}
+h2 {color:blue }
+.important {color:red;
+    font-family: cursive;    }
+.important1 {color: purple;
+font-family:cursive; }
+.important2 {color:green;
+  font-family:cursive;}
+  p{font-style: italic;}
+
+h1 {font-size: 16;
+color: blue }
+img {
+       margin: 12px;
+       border: 2px solid black;
+       padding: 4px;
+     }
+img.
